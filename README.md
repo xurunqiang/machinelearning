@@ -4,4 +4,6 @@
 ![image](https://github.com/user-attachments/assets/aa143add-ef0a-42b9-addf-194717cf060d)
 伪代码<br>
 ![image](https://github.com/user-attachments/assets/b0c3625e-a904-4d0e-b3ba-99079a329234)
+收敛定理<br>
+![image](https://github.com/user-attachments/assets/039cb0ad-81e7-47a0-b683-073d82d383a7)
 
